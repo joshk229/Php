@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ea25a6c1-2417-47fd-9c91-b56106105399" name="Website" url="https://josh.42web.io">
+      <webServer id="ea25a6c1-2417-47fd-9c91-b56106105399" name="Website" url="http://josh.42web.io/">
         <fileTransfer host="ftpupload.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
