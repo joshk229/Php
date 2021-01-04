@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92f0086b-5c37-41bb-8da0-68e36dd56318" name="Default Changelist" comment="">
+    <list default="true" id="92f0086b-5c37-41bb-8da0-68e36dd56318" name="Default Changelist" comment="h2">
+      <change afterPath="$PROJECT_DIR$/h3/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <workItem from="1607682132900" duration="142000" />
       <workItem from="1607682310274" duration="729000" />
       <workItem from="1608023233599" duration="1503000" />
-      <workItem from="1609758051042" duration="199000" />
+      <workItem from="1609758051042" duration="1087000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607682386653</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608024757848</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="h2">
+      <created>1609758443372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609758443372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +140,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="593" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1607682326490" />
-    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1608024707716">
+    <state x="474" y="183" key="NewPhpClassDialog" timestamp="1609758467999">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1608024707716" />
+    <state x="474" y="183" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1609758467999" />
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1609758484801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1609758484801" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608024759930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -152,5 +164,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="592" y="349" key="publish.login/0.0.1440.900@0.0.1440.900" timestamp="1608023345034" />
+    <state x="799" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1609760135286">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="799" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1609760135286" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/h3/index.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
