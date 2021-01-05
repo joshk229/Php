@@ -20,26 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92f0086b-5c37-41bb-8da0-68e36dd56318" name="Default Changelist" comment="h3">
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/apen/aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/bomen/Maranchery_Biyyam_Kayal_kandal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/bomen/img_0050.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/bomen/lillypilly1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/bomen/weeping-elm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/bomen/weeping-elm0091.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/kapsels/afro8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/kapsels/dreadlocks_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/kapsels/punk_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h3/kapsels/redhead_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h3/3.1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h3/3.2/kerstboom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h3/3.3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h3/3.4/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/apen/aap9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h3/3.1/apen/aap9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/bomen/Maranchery_Biyyam_Kayal_kandal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/bomen/img_0050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/bomen/lillypilly1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/bomen/weeping-elm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/bomen/weeping-elm0091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/kapsels/afro8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/kapsels/dreadlocks_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/kapsels/punk_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h3/kapsels/redhead_11.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +58,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1lSUUfe0FJiIoM3ue7C632fnjGO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -71,6 +78,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h3/3.1" />
       <recent name="$PROJECT_DIR$/h1" />
     </key>
   </component>
@@ -87,7 +95,7 @@
       <workItem from="1607682132900" duration="142000" />
       <workItem from="1607682310274" duration="729000" />
       <workItem from="1608023233599" duration="1503000" />
-      <workItem from="1609758051042" duration="1263000" />
+      <workItem from="1609758051042" duration="3749000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607682386653</created>
@@ -124,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609760974971</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="h3">
+      <created>1609761077753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609761077753</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +158,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="h1" />
     <MESSAGE value="h2" />
@@ -170,14 +186,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="183" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1609758467999" />
-    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1609758484801">
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1609846129203">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1609758484801" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1609760977172">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1609846129203" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1609761079475">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608024759930" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609761079475" />
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1609760977172" />
     <state x="627" y="187" key="ftp.server.browser" timestamp="1607682604517">
       <screen x="0" y="0" width="1440" height="900" />
@@ -195,16 +211,5 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="799" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1609760135286" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/h3/index.php</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
