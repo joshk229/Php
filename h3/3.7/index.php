@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kapperzaak de Broodje</title>
+    <title>Kapperzaak de kapsalon</title>
     <style>
         body {
             text-align: center;
