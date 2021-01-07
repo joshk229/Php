@@ -23,7 +23,7 @@ return $deelbaar;
 }
 
 function reversestring() {
-$string = "Broodjes te koop overal";
+$string = "spullen te koop";
 return strrev($string);
 }
 
