@@ -64,7 +64,7 @@ if (isset($message)) {
 }
 ?>
 <h1>Login</h1>
-<a> username = admin  username = gert <br> <br> password = Admin  password = gertdebeste</a>
+<a> username = admin  username = Pascal <br> <br> password = Admin  password = PascalMisbeek</a>
 <form method="post">
     <br><br>
     Gebruikersnaam <input class="input" type="text" id="username" name="username" value="" required>
