@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92f0086b-5c37-41bb-8da0-68e36dd56318" name="Default Changelist" comment="6">
-      <change beforePath="$PROJECT_DIR$/h7/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/h7/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h8/img/monkey-business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h8/img/monkey_swings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h8/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h8/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,6 +65,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/h5/aap" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -96,7 +102,8 @@
       <workItem from="1610370544840" duration="7000" />
       <workItem from="1610446148705" duration="1865000" />
       <workItem from="1610456105318" duration="17000" />
-      <workItem from="1610528446858" duration="1343000" />
+      <workItem from="1610528446858" duration="1576000" />
+      <workItem from="1610615034494" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607682386653</created>
@@ -210,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610533228803</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="h7 klaar">
+      <created>1610533439262</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610533439262</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,10 +274,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1610533218342" />
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610106343863">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610616034595">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1610106343863" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1610616034595" />
     <state x="593" y="354" key="Github.ShareDialog" timestamp="1607682326490">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -272,18 +286,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="183" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1610357746509" />
-    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1610533200663">
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1610616084883">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1610533200663" />
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1610616084883" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1609858805608">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609858805608" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610533230823">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610533441045">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610533230823" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610533441045" />
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1609760977172" />
     <state x="627" y="187" key="ftp.server.browser" timestamp="1607682604517">
       <screen x="0" y="0" width="1440" height="900" />
