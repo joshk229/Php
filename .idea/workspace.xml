@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92f0086b-5c37-41bb-8da0-68e36dd56318" name="Default Changelist" comment="6">
-      <change afterPath="$PROJECT_DIR$/h8/img/monkey-business.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h8/img/monkey_swings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h8/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h9/Dataophalen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h9/broodjeaanpassen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h9/broodjetoevoegen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h9/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h9/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -70,16 +71,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h5/aap" />
+      <recent name="$PROJECT_DIR$/h3/3.1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h8/8.1" />
       <recent name="$PROJECT_DIR$/h6/6.1" />
       <recent name="$PROJECT_DIR$/h5" />
       <recent name="$PROJECT_DIR$/h5/5.1" />
       <recent name="$PROJECT_DIR$/h4" />
-      <recent name="$PROJECT_DIR$/h3/3.6/img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/h5/aap" />
-      <recent name="$PROJECT_DIR$/h3/3.1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,7 +104,8 @@
       <workItem from="1610446148705" duration="1865000" />
       <workItem from="1610456105318" duration="17000" />
       <workItem from="1610528446858" duration="1576000" />
-      <workItem from="1610615034494" duration="479000" />
+      <workItem from="1610615034494" duration="854000" />
+      <workItem from="1610961562525" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1607682386653</created>
@@ -224,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610533439262</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="h8 is af">
+      <created>1610616181390</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610616181390</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +264,8 @@
     <MESSAGE value="h5 done" />
     <MESSAGE value="6" />
     <MESSAGE value="h7 klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="h7 klaar" />
+    <MESSAGE value="h8 is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h8 is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="308" y="112" key="#CLI_Interpreters" timestamp="1607681047025">
@@ -286,18 +296,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="183" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1610357746509" />
-    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1610616084883">
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1610963811111">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1610616084883" />
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1610963811111" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1609858805608">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609858805608" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610533441045">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1610616184189">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610533441045" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1610616184189" />
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1609760977172" />
     <state x="627" y="187" key="ftp.server.browser" timestamp="1607682604517">
       <screen x="0" y="0" width="1440" height="900" />
